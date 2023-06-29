@@ -2,22 +2,22 @@
   <h2>Navigace</h2>
   <ul>
     <li>
-      <a href="index.php">Domů</a>
+      <a href="/">Domů</a>
     </li>
     <li>
-      <a href="c.php">C</a>
+      <a href="/c">C</a>
     </li>
     <li>
-      <a href="cpp.php">C++</a>
+      <a href="/cpp">C++</a>
     </li>
     <li>
-      <a href="python.php">Python</a>
+      <a href="/python">Python</a>
     </li>
     <li>
-      <a href="opengl.php">OpenGL</a>
+      <a href="/opengl">OpenGL</a>
     </li>
     <li>
-      <a href="matematika.php">Matematika</a>
+      <a href="/matematika">Matematika</a>
     </li>
   </ul>
 </aside>
