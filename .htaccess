@@ -1,5 +1,11 @@
 RewriteEngine On
 
+ErrorDocument 404 /404.php
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^/]+)/?$ pages/$1.php [L]
+
 RewriteCond %{SCRIPT_FILENAME} !-d
 RewriteRule ^([^.]+)$ $1.php [NC,L]
 
