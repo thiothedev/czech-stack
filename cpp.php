@@ -15,27 +15,27 @@
     <h2>Navigace</h2>
     <ul>
       <li>
-        <a href="index.html">Domů</a>
+        <a href="index.php">Domů</a>
       </li>
       <li>
-        <a href="c.html">C</a>
+        <a href="c.php">C</a>
       </li>
       <li>
-        <a href="cpp.html">C++</a>
+        <a href="cpp.php">C++</a>
       </li>
       <li>
-        <a href="python.html">Python</a>
+        <a href="python.php">Python</a>
       </li>
       <li>
-        <a href="opengl.html">OpenGL</a>
+        <a href="opengl.php">OpenGL</a>
       </li>
       <li>
-        <a href="matematika.html">Matematika</a>
+        <a href="matematika.php">Matematika</a>
       </li>
     </ul>
   </aside>
   <main>
-    <h1>Python</h1>
+    <h1>C++</h1>
   </main>
   <footer>
     <hr>

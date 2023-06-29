@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Czech Stack | C</title>
+  <title>Czech Stack | Domů</title>
   <link rel="stylesheet" href="/styles/main.css">
   <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
   <link rel="icon" type="image/favicon/png" sizes="32x32" href="/favicon/favicon-32x32.png">
@@ -15,27 +15,27 @@
     <h2>Navigace</h2>
     <ul>
       <li>
-        <a href="index.html">Domů</a>
+        <a href="index.php">Domů</a>
       </li>
       <li>
-        <a href="c.html">C</a>
+        <a href="c.php">C</a>
       </li>
       <li>
-        <a href="cpp.html">C++</a>
+        <a href="cpp.php">C++</a>
       </li>
       <li>
-        <a href="python.html">Python</a>
+        <a href="python.php">Python</a>
       </li>
       <li>
-        <a href="opengl.html">OpenGL</a>
+        <a href="opengl.php">OpenGL</a>
       </li>
       <li>
-        <a href="matematika.html">Matematika</a>
+        <a href="matematika.php">Matematika</a>
       </li>
     </ul>
   </aside>
   <main>
-    <h1>C</h1>
+    <h1>Czech Stack</h1>
   </main>
   <footer>
     <hr>
